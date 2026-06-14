@@ -97,52 +97,6 @@ The contact form stores inquiries directly into MongoDB for management purposes.
 
 ---
 
-## ⚙️ Installation
-
-### 1. Clone Repository
-
-```bash
-git clone https://github.com/yourusername/elitefit-gym.git
-cd elitefit-gym
-```
-
-### 2. Install Dependencies
-
-```bash
-npm install
-```
-
-### 3. Configure Environment Variables
-
-Create a `.env` file in the root directory:
-
-```env
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_secret_key
-```
-
-### 4. Run the Project
-
-Development Mode:
-
-```bash
-npm run dev
-```
-
-Production Mode:
-
-```bash
-npm start
-```
-
-Server runs on:
-
-```bash
-http://localhost:5000
-```
-
----
 
 ## 📸 Preview
 
