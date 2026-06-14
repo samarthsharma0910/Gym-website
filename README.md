@@ -97,27 +97,6 @@ The contact form stores inquiries directly into MongoDB for management purposes.
 
 ---
 
-
-## 📸 Preview
-
-### Homepage
-
-(Add Screenshot Here)
-
-### Membership Section
-
-(Add Screenshot Here)
-
-### Admin Dashboard
-
-(Add Screenshot Here)
-
-### Mobile View
-
-(Add Screenshot Here)
-
----
-
 ## 🔒 Security
 
 * Password hashing using bcrypt
