@@ -66,36 +66,6 @@ Designed with a focus on clean UI, responsiveness, and practical backend impleme
 
 ---
 
-## 📂 Project Structure
-
-```bash
-EliteFit-Gym/
-│── public/
-│   ├── css/
-│   ├── js/
-│   ├── images/
-│
-│── views/
-│   ├── home.html
-│   ├── about.html
-│   ├── membership.html
-│   ├── trainers.html
-│   ├── contact.html
-│
-│── routes/
-│── controllers/
-│── models/
-│── middleware/
-│── config/
-│
-│── .env
-│── server.js
-│── package.json
-│── README.md
-```
-
----
-
 ## ✨ Main Functionalities
 
 ### Membership Management
